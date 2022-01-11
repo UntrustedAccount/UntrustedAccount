@@ -33,7 +33,8 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+[![Twitter][1.2]][1]<br>
+[![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
