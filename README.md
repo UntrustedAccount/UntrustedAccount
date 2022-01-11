@@ -29,8 +29,7 @@
 ---
 
 ## Social Media
-[![Instagram][1.2]][1]
-[![LinkedIn][2.2]][2]
+Find me on [![Instagram][1.2]][1] or [![LinkedIn][2.2]][2]
 [1.2]: https://raw.githubusercontent.com/DanL2015/DanL2015/92959c5090b63aebad8e871041ee2de578afe517/assets/instagram.svg?token=AR6XZWDVEOFDLBYLON7MXCTB3UI5Q
 [2.2]: https://raw.githubusercontent.com/DanL2015/DanL2015/92959c5090b63aebad8e871041ee2de578afe517/assets/linkedin.svg?token=AR6XZWEVQEDTPDH6MVDXZS3B3UI6Q
 [1]: https://www.instagram.com/danl_2015/
