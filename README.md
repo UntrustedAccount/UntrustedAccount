@@ -26,6 +26,7 @@
 <a href="https://github.com/DanL2015/DanL2015" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanL2015&title_color=D8DEE9&text_color=88C0D0&icon_color=A3BE8C&bg_color=3B4252&langs_count=3" />
 </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanL2015&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ---
 
