@@ -8,19 +8,15 @@ I enjoy exploring the GNU/Linux operating system, and I am currently running Arc
 ---
 
 ## Tools of the Trade
-![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=archlinux.svg&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ---
 
-## Programming Languages I Know:
-1. C++
-2. Python
-3. Java
-4. HTML/CSS
-5. Javascript
+## Stats
 
----
-
-## Computer Programming
-I personally enjoy coding in C++ the most, since it's my first programming language!
-However, I am always exploring more.
+<a href="https://github.com/DanL2015/DanL2015">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanL2015&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
