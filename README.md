@@ -28,7 +28,7 @@
 
 ---
 
-## Social Media
+## Social Media 😁
 
 <a href="https://www.instagram.com/danl_2015/">
   <img src="https://raw.githubusercontent.com/DanL2015/DanL2015/d0ff8902c9c1c203a196f6f6b40704e87710c48d/assets/instagram.svg?token=AR6XZWADGVGTKCLO2SXIMZ3B3UJP2" width="15%">
