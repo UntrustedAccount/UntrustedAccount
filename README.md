@@ -7,6 +7,11 @@ I enjoy exploring the GNU/Linux operating system, and I am currently running Arc
 
 ---
 
+## Tools of the Trade
+![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=archlinux.svg&logoColor=white&color=2bbc8a)
+
+---
+
 ## Programming Languages I Know:
 1. C++
 2. Python
