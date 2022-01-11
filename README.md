@@ -32,8 +32,8 @@
 
 Connect with me!<br>
 <a href="https://www.instagram.com/danl_2015/">
-  <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=flat-square&logo=appveyor&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/daniel-liu-2004/">
-  <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue">
+  <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=flat-square&logo=appveyorlogo=linkedin&logoColor=blue">
 </a>
