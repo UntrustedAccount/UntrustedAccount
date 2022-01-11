@@ -29,8 +29,18 @@
 ---
 
 ## Social Media
-Find me on [![1.2][1]] or [![2.2][2]]
-[1.2]: https://raw.githubusercontent.com/DanL2015/DanL2015/92959c5090b63aebad8e871041ee2de578afe517/assets/instagram.svg?token=AR6XZWDVEOFDLBYLON7MXCTB3UI5Q
-[2.2]: https://raw.githubusercontent.com/DanL2015/DanL2015/92959c5090b63aebad8e871041ee2de578afe517/assets/linkedin.svg?token=AR6XZWEVQEDTPDH6MVDXZS3B3UI6Q
-[1]: https://www.instagram.com/danl_2015/
-[2]: https://www.linkedin.com/in/daniel-liu-2004/
+
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
