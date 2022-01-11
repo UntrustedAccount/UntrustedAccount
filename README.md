@@ -9,7 +9,7 @@
 
 ---
 
-<center>## Tools of the Trade 🔧</center>
+## Tools of the Trade 🔧
 ![](https://img.shields.io/badge/OS-archlinux-informational?style=flat&logo=archlinux&logoColor=white&color=88C0D0)
 ![](https://img.shields.io/badge/DE-plasma-informational?style=flat&logo=kde&logoColor=white&color=88C0D0)
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=88C0D0)
