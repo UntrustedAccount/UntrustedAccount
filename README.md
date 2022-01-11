@@ -14,8 +14,8 @@
 ![](https://img.shields.io/badge/DE-plasma-informational?style=flat&logo=kde&logoColor=white&color=88C0D0)
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=88C0D0)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=88C0D0)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=python&logoColor=white&color=88C0D0)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=java&logoColor=white&color=88C0D0)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=88C0D0)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=88C0D0)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=88C0D0)
 
 ---
