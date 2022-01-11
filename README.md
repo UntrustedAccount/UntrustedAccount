@@ -39,7 +39,7 @@
 <!-- Icons -->
 
 [1.2]: https://raw.githubusercontent.com/DanL2015/DanL2015/d0ff8902c9c1c203a196f6f6b40704e87710c48d/assets/instagram.svg?token=AR6XZWADGVGTKCLO2SXIMZ3B3UJP2
-[2.2]: https://raw.githubusercontent.com/DanL2015/DanL2015/92959c5090b63aebad8e871041ee2de578afe517/assets/linkedin.svg?token=AR6XZWEVQEDTPDH6MVDXZS3B3UI6Q
+[2.2]: https://raw.githubusercontent.com/DanL2015/DanL2015/4eb7850d937684ab92504c6260eb1c28fa3bcdcf/assets/linkedin.svg?token=AR6XZWFKFNY4NDFEXWCYTUDB3UJSQ
 
 <!-- Links to your social media accounts -->
 
