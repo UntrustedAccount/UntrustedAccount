@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/DanL2015/DanL2015/main/nordic_city.png)](https://daniel-liu-website.herokuapp.com/)
+[![Header](https://github.com/DanL2015/DanL2015/blob/main/Liu_Daniel_Header.png?raw=true)](https://daniel-liu-website.herokuapp.com/)
 
 ## About Me
 I am currently a class of 2022 high school student attending James Logan High School.
