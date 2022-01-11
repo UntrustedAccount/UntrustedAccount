@@ -33,15 +33,15 @@
 
 <!-- Actual text -->
 
-[![Twitter][1.2]][1]<br>
+[![Instagram][1.2]][1]<br>
 [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/DanL2015/DanL2015/d0ff8902c9c1c203a196f6f6b40704e87710c48d/assets/instagram.svg?token=AR6XZWADGVGTKCLO2SXIMZ3B3UJP2
+[2.2]: https://raw.githubusercontent.com/DanL2015/DanL2015/92959c5090b63aebad8e871041ee2de578afe517/assets/linkedin.svg?token=AR6XZWEVQEDTPDH6MVDXZS3B3UI6Q
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.instagram.com/danl_2015/
+[2]: https://www.linkedin.com/in/daniel-liu-2004/
