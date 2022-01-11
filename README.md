@@ -1,6 +1,6 @@
 [![Header](https://github.com/DanL2015/DanL2015/blob/main/Liu_Daniel_Header.png?raw=true)](https://daniel-liu-website.herokuapp.com/)
 
-## About Me
+## Hello Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am currently a class of 2022 high school student attending James Logan High School.
 I am interested in everything computer science, from graphics design to computer programming.
 I enjoy exploring the GNU/Linux operating system, and I am currently running Arch Linux with KDE/Plasma and AwesomeWM.
