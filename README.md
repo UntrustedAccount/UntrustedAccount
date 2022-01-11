@@ -32,8 +32,8 @@
 
 Connect with me!<br>
 <a href="https://www.instagram.com/danl_2015/">
-  <img src="https://raw.githubusercontent.com/DanL2015/DanL2015/d0ff8902c9c1c203a196f6f6b40704e87710c48d/assets/instagram.svg?token=AR6XZWADGVGTKCLO2SXIMZ3B3UJP2" width="15%">
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/daniel-liu-2004/">
-  <img src="https://raw.githubusercontent.com/DanL2015/DanL2015/4eb7850d937684ab92504c6260eb1c28fa3bcdcf/assets/linkedin.svg?token=AR6XZWFKFNY4NDFEXWCYTUDB3UJSQ" width="15%">
+  <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue">
 </a>
