@@ -31,8 +31,8 @@
 ## Social Media
 
 <a href="https://www.instagram.com/danl_2015/">
-  <img src="https://raw.githubusercontent.com/DanL2015/DanL2015/d0ff8902c9c1c203a196f6f6b40704e87710c48d/assets/instagram.svg?token=AR6XZWADGVGTKCLO2SXIMZ3B3UJP2" width="25%">
+  <img src="https://raw.githubusercontent.com/DanL2015/DanL2015/d0ff8902c9c1c203a196f6f6b40704e87710c48d/assets/instagram.svg?token=AR6XZWADGVGTKCLO2SXIMZ3B3UJP2" width="15%">
 </a>
 <a href="https://www.linkedin.com/in/daniel-liu-2004/">
-  <img src="https://raw.githubusercontent.com/DanL2015/DanL2015/4eb7850d937684ab92504c6260eb1c28fa3bcdcf/assets/linkedin.svg?token=AR6XZWFKFNY4NDFEXWCYTUDB3UJSQ" width="25%">
+  <img src="https://raw.githubusercontent.com/DanL2015/DanL2015/4eb7850d937684ab92504c6260eb1c28fa3bcdcf/assets/linkedin.svg?token=AR6XZWFKFNY4NDFEXWCYTUDB3UJSQ" width="15%">
 </a>
