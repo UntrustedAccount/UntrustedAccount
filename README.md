@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/DanL2015/DanL2015/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/DanL2015/DanL2015/nordic_city.png "Header")](https://some-url.dev/)
 
 ## About Me
 I am currently a class of 2022 high school student attending James Logan High School.
