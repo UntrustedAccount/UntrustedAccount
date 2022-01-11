@@ -4,7 +4,7 @@
 <p>
   I am currently a class of 2022 high school student attending James Logan High School.<br>
   Interested in everything computer science, from graphics design to computer programming.<br>
-  I enjoy exploring the GNU/Linux operating system, and I am currently running Arch Linux with KDE/Plasma and AwesomeWM.
+  Currently, I casually code in C++, and share my code here to document my journey into CS!
 </p>
 
 ---
@@ -25,3 +25,13 @@
 <a href="https://github.com/DanL2015/DanL2015">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanL2015&hide=java,html,tex&title_color=D8DEE9&text_color=88C0D0&icon_color=A3BE8C&bg_color=3B4252&langs_count=3" />
 </a>
+
+---
+
+## Social Media
+[![Instagram][1.2]][1]
+[![LinkedIn][3.2]][3]
+[1.2]: https://raw.githubusercontent.com/DanL2015/DanL2015/92959c5090b63aebad8e871041ee2de578afe517/assets/instagram.svg?token=AR6XZWDVEOFDLBYLON7MXCTB3UI5Q
+[2.2]: https://raw.githubusercontent.com/DanL2015/DanL2015/92959c5090b63aebad8e871041ee2de578afe517/assets/linkedin.svg?token=AR6XZWEVQEDTPDH6MVDXZS3B3UI6Q
+[1]: https://www.instagram.com/danl_2015/
+[2]: https://www.linkedin.com/in/daniel-liu-2004/
