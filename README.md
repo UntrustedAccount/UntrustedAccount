@@ -30,9 +30,10 @@
 
 ## Social Media 😁
 
+Connect with me!<br>
 <a href="https://www.instagram.com/danl_2015/">
-  <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=flat-square&logo=instagram&logoColor=pink" width=25%>
+  <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=flat-square&logo=instagram&logoColor=pink" width=75%>
 </a>
 <a href="https://www.linkedin.com/in/daniel-liu-2004/">
-  <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=flat-square&logo=linkedin&logoColor=blue" width=25%>
+  <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=flat-square&logo=linkedin&logoColor=blue" width=75%>
 </a>
