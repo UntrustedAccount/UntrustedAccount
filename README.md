@@ -2,7 +2,7 @@
 
 ## Hello Everyone! <img src="https://github.com/DanL2015/DanL2015/blob/main/assets/wave.gif?raw=true" width="30px">
 <p>
-  I am currently a class of 2022 high school student attending James Logan High School.<br>
+  I am currently a class of 2026 student attending University of California, Berkeley<br>
   Interested in everything computer science.<br>
   Currently, I casually code in C++ and share my code here to document my journey into CS!
 </p>
