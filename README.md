@@ -27,16 +27,3 @@
 <a href="https://github.com/DanL2015/DanL2015" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=DanL2015&title_color=D8DEE9&text_color=88C0D0&icon_color=A3BE8C&bg_color=3B4252&langs_count=5" />
 </a>
-
-
----
-
-## Social Media 😁
-
-Connect with me!<br>
-<a href="https://www.instagram.com/danl_2015/">
-  <img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=pink">
-</a>
-<a href="https://www.linkedin.com/in/daniel-liu-2004/">
-  <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue">
-</a>
