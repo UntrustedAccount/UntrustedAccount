@@ -12,7 +12,6 @@
 ## Tools of the Trade 🔧
 ![](https://img.shields.io/badge/OS-archlinux-informational?style=flat&logo=archlinux&logoColor=white&color=88C0D0)
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=88C0D0)
-![](https://img.shields.io/badge/Editor-eclipse-informational?style=flat&logo=eclipseide&logoColor=white&color=88C0D0)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=88C0D0)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=88C0D0)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=88C0D0)
