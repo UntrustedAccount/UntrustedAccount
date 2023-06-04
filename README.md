@@ -4,7 +4,6 @@
 <p>
   I am currently a class of 2026 student attending University of California, Berkeley<br>
   Interested in everything computer science.<br>
-  Currently, I casually code in C++ and share my code here to document my journey into CS!
 </p>
 
 ---
