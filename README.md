@@ -8,7 +8,7 @@
 You will probably find a lot of my personal projects in Linux or Web Development here.</samp></p>
 
 <p align="center">
-  <a href="https://danl2015.github.io/Resume/"><samp>Website</samp></a>
+  <a href="https://dliu.is-a.dev"><samp>Website</samp></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=DanL2015&color=262626)
