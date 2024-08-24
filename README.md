@@ -4,8 +4,9 @@
 
 ##
 
-<p align="center"><samp>I am currently studying Computer Science and Data Science at the University of California, Berkeley<br>
-You will find a lot of my personal projects in Linux or Web Development here.</samp></p>
+<p align="center"><samp>I am currently studying Computer Science and Data Science at the University of California, Berkeley.<br>
+You will find a lot of my personal projects in Linux or Web Development here.<br>
+School projects are private; employers can request access at <a href="mailto:danielliu@berkeley.edu">danielliu@berkeley.edu</a>.</samp></p>
 
 <p align="center">
   <a href="https://dliu.is-a.dev"><samp>Website</samp></a>
