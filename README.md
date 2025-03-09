@@ -1,6 +1,6 @@
 ##
 
-<p align="center"><samp>Hello! I'm Daniel.<samp> <img src="https://github.com/DanL2015/DanL2015/blob/main/assets/wave.gif?raw=true" width="30px"></p>
+<p align="center"><samp>Hello! I'm Daniel.<samp> <img src="https://github.com/UntrustedAccount/UntrustedAccount/blob/main/assets/wave.gif?raw=true" width="30px"></p>
 
 ##
 
@@ -16,4 +16,4 @@ School projects are private; employers can request access at <a href="mailto:dan
   <a href="mailto:danielliu@berkeley.edu"><samp>Email</samp></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=DanL2015&color=262626)
+![](https://komarev.com/ghpvc/?username=UntrustedAccount&color=262626)
