@@ -1,6 +1,6 @@
 ##
 
-<p align="center"><samp>Hello! I'm Daniel.<samp> <img src="https://github.com/UntrustedAccount/UntrustedAccount/blob/main/assets/wave.gif?raw=true" width="30px"></p>
+<p align="center"><samp>Hello! I'm Daniel.<samp> <img src="https://github.com/UntrustedAccount/UntrustedAccount/blob/main/assets/wave.gif?raw=true" width="18px"></p>
 
 ##
 
